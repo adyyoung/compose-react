@@ -1,3 +1,6 @@
+[logo]: https://circleci.com/gh/adyyoung/compose-react/tree/master.png?style=shield&circle-token=:circle-token "CircleCI"
+![alt text][logo]
+
 # compose-react
 
 A higher order function for wrapping react components many times.

@@ -1,4 +1,5 @@
 /lib/
+secret-env-plain
 
 # Logs
 logs
