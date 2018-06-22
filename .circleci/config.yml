@@ -35,7 +35,7 @@ jobs:
           - v1-dependencies-
 
       - run: npm install
-      - run: "echo FOO: $FOO BAR: $BAR"
+      - run: "echo FOO: $FOO BAR: $BAR KEY: $KEY"
       - save_cache:
           paths:
             - node_modules
